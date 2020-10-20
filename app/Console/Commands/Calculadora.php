@@ -39,7 +39,6 @@ class calculadora extends Command
      */
     public function handle($num1, $num2)
     {
-
         $sum = $num1 + $num2;
         $rest = $num1 - $num2;
 

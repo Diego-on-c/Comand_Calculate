@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e572053-0910-41ab-b5cf-6622843e4139" name="Default Changelist" comment="" />
+    <list default="true" id="5e572053-0910-41ab-b5cf-6622843e4139" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Console/Commands/Calculadora.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Console/Commands/Calculadora.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Console/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Console/Kernel.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -145,7 +167,13 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="PHPUnit.CalculatorTest.test_if_calculator_can_sum">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/Console/Commands" />
+      <recent name="$PROJECT_DIR$/app" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHPUnit.CalculatorTest.test_if_calculator_can_rest">
     <configuration name="CalculatorTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
       <CommandLine>
         <PhpTestInterpreterSettings>
@@ -179,9 +207,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="PHPUnit.CalculatorTest.test_if_calculator_can_sum" />
-        <item itemvalue="PHPUnit.CalculatorTest" />
         <item itemvalue="PHPUnit.CalculatorTest.test_if_calculator_can_rest" />
+        <item itemvalue="PHPUnit.CalculatorTest" />
+        <item itemvalue="PHPUnit.CalculatorTest.test_if_calculator_can_sum" />
       </list>
     </recent_temporary>
   </component>
@@ -194,29 +222,41 @@
       <option name="presentableId" value="Default" />
       <updated>1603187959542</updated>
       <workItem from="1603187961387" duration="1439000" />
-      <workItem from="1603189911642" duration="2774000" />
+      <workItem from="1603189911642" duration="3935000" />
+      <workItem from="1603198161215" duration="697000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1374" height="250" key="GridCell.Tab.0.bottom" timestamp="1603192777795">
+    <state width="1374" height="250" key="GridCell.Tab.0.bottom" timestamp="1603198156288">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1374" height="250" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1603192777795" />
-    <state width="1374" height="250" key="GridCell.Tab.0.center" timestamp="1603192777794">
+    <state width="1374" height="250" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1603198156288" />
+    <state width="1374" height="250" key="GridCell.Tab.0.center" timestamp="1603198156287">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1374" height="250" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1603192777794" />
-    <state width="1374" height="250" key="GridCell.Tab.0.left" timestamp="1603192777793">
+    <state width="1374" height="250" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1603198156287" />
+    <state width="1374" height="250" key="GridCell.Tab.0.left" timestamp="1603198156287">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1374" height="250" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1603192777793" />
-    <state width="1374" height="250" key="GridCell.Tab.0.right" timestamp="1603192777794">
+    <state width="1374" height="250" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1603198156287" />
+    <state width="1374" height="250" key="GridCell.Tab.0.right" timestamp="1603198156288">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1374" height="250" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1603192777794" />
+    <state width="1374" height="250" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1603198156288" />
   </component>
 </project>
