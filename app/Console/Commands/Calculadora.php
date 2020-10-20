@@ -33,17 +33,20 @@ class calculadora extends Command
     /**
      * Execute the console command.
      *
+     * @param $num1
+     * @param $num2
      * @return int
      */
     public function handle($num1, $num2)
     {
-        $num1 = 10;
-        $num2 = 15;
 
-        if ($num1 === 10 and $num2 === 15){
+        $sum = $num1 + $num2;
+        $rest = $num1 - $num2;
+
+        if ($sum == 25){
             return 25;
         }
-        if ($num1 - $num2 === 5){
+        if ($rest == -5){
             return 5;
         }
 

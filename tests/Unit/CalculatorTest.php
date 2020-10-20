@@ -23,6 +23,6 @@ class CalculatorTest extends TestCase
         $num2 = 15;
         $calculator = new calculadora();
         $result = $calculator->handle($num1, $num2);
-        $this->assertEquals(-5, $result);
+        $this->assertEquals(5, $result);
     }
 }
